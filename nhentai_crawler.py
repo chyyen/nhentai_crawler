@@ -5,7 +5,7 @@ import lxml
 import os
 
 Header = {'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36'}
-file_path = 'C:\\My folder\\'
+file_path = ''
 img_prefix = 'https://i.nhentai.net/galleries/'
 
 def Init() :
