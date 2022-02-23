@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup as BS
 import requests
-import urllib.request 
 import lxml
 import os
 
